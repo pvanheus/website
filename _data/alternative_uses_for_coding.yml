@@ -97,3 +97,5 @@
   Text: Wrote R script to determine which of my kids should keep using a bus pass that we load with money versus an unlimited monthly pass, based on downloaded csv files of bus trips (3 kids, 1 file per kid-month, many months).
 - Name: Joseph Hardin
   Text: "[My girlfriend and I](https://twitter.com/JosephHardin7/status/983886964943409153) have a movie picking script. We each add one movie it randomizes and picks from all previously entered. The selected is removed from list and watched. Solves the problem of bias in movie selection."
+  Name: Peter van Heusden
+  Text: I do some programming around civic data. One project was a [map](https://pvanheus.github.io/1976/1976_gen.html) of young people killed during the 1976 uprising against Apartheid. It is something I hope to go back to with more detailed data. Another "data dive" has been my exploration of South African [Higher Education Data](https://pvanheus.github.io/chet_data_exploration/html/CHETdata.html) which was used by a colleage in their conference presentation. I'm planning on expanding that enquiry in a different direction to assist my union (UWCEU).
